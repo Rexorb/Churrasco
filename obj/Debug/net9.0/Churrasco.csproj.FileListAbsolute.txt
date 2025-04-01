@@ -1,0 +1,15 @@
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\bin\Debug\net9.0\Churrasco.exe
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\bin\Debug\net9.0\Churrasco.deps.json
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\bin\Debug\net9.0\Churrasco.runtimeconfig.json
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\bin\Debug\net9.0\Churrasco.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\bin\Debug\net9.0\Churrasco.pdb
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\obj\Debug\net9.0\Churrasco.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\obj\Debug\net9.0\Churrasco.AssemblyInfoInputs.cache
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\obj\Debug\net9.0\Churrasco.AssemblyInfo.cs
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\obj\Debug\net9.0\Churrasco.csproj.CoreCompileInputs.cache
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\obj\Debug\net9.0\Churrasco.sourcelink.json
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\obj\Debug\net9.0\Churrasco.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\obj\Debug\net9.0\refint\Churrasco.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\obj\Debug\net9.0\Churrasco.pdb
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\obj\Debug\net9.0\Churrasco.genruntimeconfig.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Churrasco\obj\Debug\net9.0\ref\Churrasco.dll
